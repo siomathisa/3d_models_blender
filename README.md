@@ -8,4 +8,4 @@ Quelques exemples de modèles 3D (voir + dans chacun des répertoires) :
 
 ![tennisball](https://github.com/user-attachments/assets/74e81695-539d-4cd7-b504-9c819d1f255e)
 
-
+![texte-3d](https://github.com/user-attachments/assets/36997097-b311-47de-9419-315e68eaed9c)
