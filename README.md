@@ -1,6 +1,4 @@
-![blender-logo](https://github.com/user-attachments/assets/7043d329-ec8d-4f4c-ad6d-16fc020ce786)
-
-Quelques exemples de modèles 3D (voir + dans chacun des répertoires) :
+Quelques exemples de modèles 3D que j'ai réalisé sur Blender :
 
 ![gameboy](https://github.com/user-attachments/assets/f92f5270-4c34-40fd-a446-684ad99a991a)
 
